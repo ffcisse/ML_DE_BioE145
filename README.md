@@ -1,14 +1,14 @@
 # Unsupervised Clustering and Differential Expression Analysis of Lung scRNA-seq Data
-
+ **Full Report:** [View here](docs/report.pdf)
 ## Introduction
 This project explores single-cell RNA sequencing (scRNA-seq) data from lung tissue in healthy mice to identify distinct cell populations and the genes that drive their separation. Using unsupervised learning techniques, the goal is to uncover structure in high-dimensional biological data and better understand how different lung cell types are organized and function.
 
-## Technologies Used
-- Python  
-- NumPy, Pandas  
-- Scikit-learn (PCA, K-means clustering)  
-- Matplotlib / Seaborn  
-- Jupyter Notebook  
+## Technologies
+- **Python**  
+- **NumPy**, **Pandas**  
+- **Scikit-learn** (PCA, K-means clustering)  
+- **Matplotlib**, **Seaborn**  
+- **Google Colab** (notebook environement) 
 
 
 ## Features
