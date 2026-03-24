@@ -1,5 +1,5 @@
 # Unsupervised Clustering and Differential Expression Analysis of Lung scRNA-seq Data
- **Full Report:** [View here](docs/report.pdf)
+ **Full Report:** [View here](Final_Project_Report.pdf)
 ## Introduction
 This project explores single-cell RNA sequencing (scRNA-seq) data from lung tissue in healthy mice to identify distinct cell populations and the genes that drive their separation. Using unsupervised learning techniques, the goal is to uncover structure in high-dimensional biological data and better understand how different lung cell types are organized and function.
 
